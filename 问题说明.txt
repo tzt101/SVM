@@ -1,0 +1,13 @@
+问题描述：
+读入一个svm格式的二分类数据，分类模型为线性：y=wx+b，用Hinge Loss和SGD算法，求解w和b
+
+要求：
+1. 用C++实现
+2. 尽可能降低内存和时间开销
+3. 优化算法部分首先定义一个基类，定义Optimize纯虚函数，派生类具体做Hinge Loss和SGD
+
+.txt是训练数据，.t是测试数据
+
+
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+
