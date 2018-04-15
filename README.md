@@ -1,2 +1,2 @@
 # SVM
-This code has tested in VS 2015.
+This code is built in VS 2015.
